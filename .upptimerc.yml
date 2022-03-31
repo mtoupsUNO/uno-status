@@ -5,8 +5,21 @@ repo: uno-status # The name of this repository
 sites:
   - name: UNO CSCI redirect
     url: https://www.cs.uno.edu
-  - name: UNO Autolab
+  - name: UNO Bioinformatics website
+    url: https://biomall.cs.uno.edu
+  - name: UNO CSCI Autolab
     url: https://autolab.cs.uno.edu
+  - name: UNO CSCI webterminal (guacamole)
+    url: https://webterminal.cs.uno.edu
+  - name: UNO CSCI gitlab
+    url: https://gitlab.cs.uno.edu
+  - name: UNO CSCI DNS 1
+    url: 137.30.120.33
+    port: 53
+  - name: UNO CSCI DNS 2
+    url: 137.30.10.230
+    port: 53
+
 assignees:
   - mtoupsUNO
 
