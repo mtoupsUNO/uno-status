@@ -13,12 +13,12 @@ sites:
     url: https://webterminal.cs.uno.edu
   - name: UNO CSCI gitlab
     url: https://gitlab.cs.uno.edu
-  - name: UNO CSCI DNS 1
-    url: 137.30.120.33
-    port: 53
-  - name: UNO CSCI DNS 2
-    url: 137.30.10.230
-    port: 53
+    #  - name: UNO CSCI DNS 1
+    #url: 137.30.120.33
+    #port: 53
+    #  - name: UNO CSCI DNS 2
+    #url: 137.30.10.230
+    #port: 53
 
 assignees:
   - mtoupsUNO
