@@ -4,19 +4,19 @@
     "url": "https://www.cs.uno.edu",
     "icon": "https://favicons.githubusercontent.com/www.cs.uno.edu",
     "slug": "uno-csci-redirect",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 917,
-    "timeDay": 371,
-    "timeWeek": 473,
-    "timeMonth": 917,
-    "timeYear": 917,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 874,
+    "timeDay": 386,
+    "timeWeek": 464,
+    "timeMonth": 874,
+    "timeYear": 874,
     "dailyMinutesDown": {
-      "2022-04-08": 1
+      "2022-04-08": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://biomall.cs.uno.edu",
     "icon": "https://favicons.githubusercontent.com/biomall.cs.uno.edu",
     "slug": "uno-bioinformatics-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 307,
-    "timeWeek": 309,
-    "timeMonth": 378,
-    "timeYear": 378,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 376,
+    "timeDay": 330,
+    "timeWeek": 314,
+    "timeMonth": 376,
+    "timeYear": 376,
     "dailyMinutesDown": {
-      "2022-04-08": 0
+      "2022-04-08": 10
     }
   },
   {
