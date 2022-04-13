@@ -15,6 +15,8 @@ sites:
     url: https://webterminal.cs.uno.edu
   - name: UNO CSCI gitlab
     url: https://gitlab.cs.uno.edu
+  - name: UNO Oyster Sentinel
+    url: https://oystersentinel.cs.uno.edu
     #  - name: UNO CSCI DNS 1
     #url: 137.30.120.33
     #port: 53
