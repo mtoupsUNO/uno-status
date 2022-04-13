@@ -5,6 +5,8 @@ repo: uno-status # The name of this repository
 sites:
   - name: UNO CSCI redirect
     url: https://www.cs.uno.edu
+    expectedStatusCodes:
+    - 301
   - name: UNO Bioinformatics website
     url: https://biomall.cs.uno.edu
   - name: UNO CSCI Autolab
