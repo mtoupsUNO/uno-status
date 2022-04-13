@@ -26,6 +26,8 @@ sites:
     url: https://gitlab.cs.uno.edu
   - name: UNO Oyster Sentinel
     url: https://oystersentinel.cs.uno.edu
+  - name: UNO Oyster Shell Budget
+    url: https://shellbudget.org
     #  - name: UNO CSCI DNS 1
     #url: 137.30.120.33
     #port: 53
