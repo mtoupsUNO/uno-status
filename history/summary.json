@@ -4,19 +4,19 @@
     "url": "https://www.cs.uno.edu",
     "icon": "https://favicons.githubusercontent.com/www.cs.uno.edu",
     "slug": "uno-csci-redirect",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 744,
-    "timeDay": 1375,
-    "timeWeek": 751,
-    "timeMonth": 744,
-    "timeYear": 744,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 734,
+    "timeDay": 888,
+    "timeWeek": 707,
+    "timeMonth": 734,
+    "timeYear": 734,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.cs.uno.edu/~jaime/4501sylFall08.pdf",
     "icon": "https://favicons.githubusercontent.com/www.cs.uno.edu",
     "slug": "uno-faculty-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 221,
-    "timeDay": 214,
-    "timeWeek": 230,
+    "timeDay": 217,
+    "timeWeek": 229,
     "timeMonth": 221,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 11
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.cs.uno.edu/~vassil",
     "icon": "https://favicons.githubusercontent.com/www.cs.uno.edu",
     "slug": "uno-faculty-redirects",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 102,
-    "timeDay": 107,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 103,
+    "timeDay": 109,
     "timeWeek": 106,
-    "timeMonth": 102,
-    "timeYear": 102,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 11
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://biomall.cs.uno.edu",
     "icon": "https://favicons.githubusercontent.com/biomall.cs.uno.edu",
     "slug": "uno-bioinformatics-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 329,
-    "timeWeek": 306,
-    "timeMonth": 358,
-    "timeYear": 358,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 357,
+    "timeDay": 326,
+    "timeWeek": 308,
+    "timeMonth": 357,
+    "timeYear": 357,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 11
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://autolab.cs.uno.edu",
     "icon": "https://favicons.githubusercontent.com/autolab.cs.uno.edu",
     "slug": "uno-csci-autolab",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 396,
-    "timeWeek": 353,
-    "timeMonth": 375,
-    "timeYear": 375,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 403,
+    "timeDay": 846,
+    "timeWeek": 471,
+    "timeMonth": 403,
+    "timeYear": 403,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 11
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://webterminal.cs.uno.edu",
     "icon": "https://favicons.githubusercontent.com/webterminal.cs.uno.edu",
     "slug": "uno-csci-webterminal-guacamole",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 274,
-    "timeDay": 299,
-    "timeWeek": 265,
+    "timeDay": 295,
+    "timeWeek": 268,
     "timeMonth": 274,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 11
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://gitlab.cs.uno.edu",
     "icon": "https://favicons.githubusercontent.com/gitlab.cs.uno.edu",
     "slug": "uno-csci-gitlab",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 449,
-    "timeDay": 489,
+    "timeDay": 461,
     "timeWeek": 430,
     "timeMonth": 449,
     "timeYear": 449,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 11
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "https://oystersentinel.cs.uno.edu",
     "icon": "https://favicons.githubusercontent.com/oystersentinel.cs.uno.edu",
     "slug": "uno-oyster-sentinel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 324,
-    "timeWeek": 327,
-    "timeMonth": 382,
-    "timeYear": 382,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 377,
+    "timeDay": 310,
+    "timeWeek": 323,
+    "timeMonth": 377,
+    "timeYear": 377,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 11
     }
   },
   {
@@ -164,19 +164,19 @@
     "url": "https://shellbudget.org",
     "icon": "https://favicons.githubusercontent.com/shellbudget.org",
     "slug": "uno-oyster-shell-budget",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 358,
-    "timeWeek": 474,
-    "timeMonth": 475,
-    "timeYear": 475,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 485,
+    "timeDay": 496,
+    "timeWeek": 494,
+    "timeMonth": 485,
+    "timeYear": 485,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 11
     }
   }
 ]
