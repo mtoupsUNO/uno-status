@@ -78,9 +78,9 @@
     "url": "https://autolab.cs.uno.edu",
     "icon": "https://favicons.githubusercontent.com/autolab.cs.uno.edu",
     "slug": "uno-csci-autolab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 477,
     "timeMonth": 448,
     "timeYear": 416,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-03": 0
+    }
   },
   {
     "name": "UNO CSCI webterminal (guacamole)",
