@@ -116,9 +116,9 @@
     "url": "https://gitlab.cs.uno.edu",
     "icon": "https://favicons.githubusercontent.com/gitlab.cs.uno.edu",
     "slug": "uno-csci-gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,7 +127,9 @@
     "timeWeek": 409,
     "timeMonth": 536,
     "timeYear": 538,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-03": 0
+    }
   },
   {
     "name": "UNO Oyster Sentinel",
