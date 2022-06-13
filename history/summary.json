@@ -101,12 +101,12 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 369,
     "timeDay": 230,
-    "timeWeek": 244,
+    "timeWeek": 238,
     "timeMonth": 488,
     "timeYear": 369,
     "dailyMinutesDown": {
@@ -118,9 +118,9 @@
     "url": "https://gitlab.cs.uno.edu",
     "icon": "https://favicons.githubusercontent.com/gitlab.cs.uno.edu",
     "slug": "uno-csci-gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.95%",
@@ -130,6 +130,7 @@
     "timeMonth": 511,
     "timeYear": 518,
     "dailyMinutesDown": {
+      "2022-06-13": 0,
       "2022-06-03": 50
     }
   },
@@ -146,7 +147,7 @@
     "uptimeYear": "100.00%",
     "time": 392,
     "timeDay": 300,
-    "timeWeek": 341,
+    "timeWeek": 312,
     "timeMonth": 428,
     "timeYear": 392,
     "dailyMinutesDown": {}
@@ -164,7 +165,7 @@
     "uptimeYear": "100.00%",
     "time": 465,
     "timeDay": 696,
-    "timeWeek": 523,
+    "timeWeek": 525,
     "timeMonth": 466,
     "timeYear": 465,
     "dailyMinutesDown": {}
